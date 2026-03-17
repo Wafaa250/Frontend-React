@@ -10,11 +10,12 @@ import ContactForm from "./components/ControlledInputForm";
 import EventForm from "./components/EventForm";
 import CharacterCounter from "./components/CharacterCounter";
 import ProductDashboard from "./components/Dashboard";
+import TodoList from "./components/TodoList";
 
 function App() {
   return (
     <div>
-      <ProductDashboard />
+      <TodoList />
     </div>
   );
 }
