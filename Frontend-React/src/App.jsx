@@ -7,11 +7,12 @@ import UserCard from "./components/UserCard"
 import Counter from "./components/Counter"
 import ToggleButton from "./components/ToggleButton";
 import ContactForm from "./components/ControlledInputForm";
- 
+import EventForm from "./components/EventForm";
+
 function App() {
   return (
     <div>
-      <ContactForm />
+      <EventForm />
     </div>
   );
 }
