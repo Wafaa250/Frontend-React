@@ -9,11 +9,12 @@ import ToggleButton from "./components/ToggleButton";
 import ContactForm from "./components/ControlledInputForm";
 import EventForm from "./components/EventForm";
 import CharacterCounter from "./components/CharacterCounter";
+import ProductDashboard from "./components/Dashboard";
 
 function App() {
   return (
     <div>
-      <CharacterCounter />
+      <ProductDashboard />
     </div>
   );
 }
