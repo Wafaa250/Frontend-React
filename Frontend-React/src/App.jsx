@@ -5,15 +5,15 @@ import StyledComponent from "./components/StyledBox"
 import StyledComponentCSS from "./components/StyledComponentCSS"
 import UserCard from "./components/UserCard"
 import Counter from "./components/Counter"
-
+import ToggleButton from "./components/ToggleButton";
+import ContactForm from "./components/ControlledInputForm";
+ 
 function App() {
   return (
     <div>
-
-      <Counter />
-
+      <ContactForm />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
