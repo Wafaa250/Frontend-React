@@ -8,11 +8,12 @@ import Counter from "./components/Counter"
 import ToggleButton from "./components/ToggleButton";
 import ContactForm from "./components/ControlledInputForm";
 import EventForm from "./components/EventForm";
+import CharacterCounter from "./components/CharacterCounter";
 
 function App() {
   return (
     <div>
-      <EventForm />
+      <CharacterCounter />
     </div>
   );
 }
