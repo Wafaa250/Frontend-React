@@ -12,11 +12,16 @@ import CharacterCounter from "./components/CharacterCounter";
 import ProductDashboard from "./components/Dashboard";
 import TodoList from "./components/TodoList";
 import ColorPicker from "./components/ColorPicker";
+import Header from "./components/Header";
+import Main from "./components/Main";
+import Footer from "./components/Footer";
+
+import CardGrid from "./components/CardGrid";
 
 function App() {
   return (
     <div>
-      <ColorPicker />
+      <CardGrid />
     </div>
   );
 }
