@@ -1,0 +1,17 @@
+.card {
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+  width: 250px;
+  margin-top: 20px;
+}
+
+.title {
+  color: darkblue;
+  font-size: 22px;
+}
+
+.text {
+  color: #333;
+  font-size: 16px;
+}
