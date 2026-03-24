@@ -15,13 +15,13 @@ import ColorPicker from "./components/ColorPicker";
 import Header from "./components/Header";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
-
 import CardGrid from "./components/CardGrid";
+import Tabs from "./components/Tabs";
 
 function App() {
   return (
     <div>
-      <CardGrid />
+      <Tabs />
     </div>
   );
 }
