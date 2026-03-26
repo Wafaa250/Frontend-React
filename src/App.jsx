@@ -18,11 +18,11 @@ import Footer from "./components/Footer";
 import CardGrid from "./components/CardGrid";
 import Tabs from "./components/Tabs";
 import FetchData from "./components/FetchData";
-
+import FetchData2 from "./components/FetchData2";
 function App() {
   return (
     <div>
-      <FetchData />
+      <FetchData2 />
     </div>
   );
 }

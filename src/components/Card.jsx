@@ -16,4 +16,4 @@ function Card({ image, title, description }) {
   );
 }
 
-export default Card;
+export default Card; 
