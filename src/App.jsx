@@ -1,9 +1,9 @@
-import SearchableList from "./components/SearchableList";
+import TodoList from "./components/TodoList";
 
 function App() {
   return (
     <div>
-      <SearchableList />
+      <TodoList />
     </div>
   );
 }
